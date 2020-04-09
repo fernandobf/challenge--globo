@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "name": "Fulano",
+        "calories": "fulano@teste.com",
+        "fat": "00/00/000",
+        "carbs": "99/99/9999",
+        "protein": "01",
+        "status": "ATIVO"
+    },
+    {
+        "id": 2,
+        "name": "Ciclano",
+        "calories": "ciclano@teste.com",
+        "fat": "00/00/0000",
+        "carbs": "99/99/9999",
+        "protein": "01",
+        "status": "INATIVO"
+    },
+    {
+        "id": 3,
+        "name": "Beltrano",
+        "calories": "beltrano@teste.com",
+        "fat": "00/00/0000",
+        "carbs": "99/99/9999",
+        "protein": "01",
+        "status": "ATIVO"
+    },
+    {
+        "id": 4,
+        "name": "Fulano",
+        "calories": "fulano@teste.com",
+        "fat": "00/00/0000",
+        "carbs": "99/99/9999",
+        "protein": "01",
+        "status": "ATIVO"
+    },
+    {
+        "id": 5,
+        "name": "Ciclano",
+        "calories": "ciclano@teste.com",
+        "fat": "00/00/0000",
+        "carbs": "99/99/9999",
+        "protein": "01",
+        "status": "INATIVO"
+    },
+    {
+        "id": 6,
+        "name": "Beltrano",
+        "calories": "beltrano@teste.com",
+        "fat": "00/00/0000",
+        "carbs": "99/99/9999",
+        "protein": "01",
+        "status": "ATIVO"
+    },
+    {
+        "id": 7,
+        "name": "Fulano",
+        "calories": "fulano@teste.com",
+        "fat": "00/00/0000",
+        "carbs": "99/99/9999",
+        "protein": "01",
+        "status": "ATIVO"
+    },
+    {
+        "id": 8,
+        "name": "Ciclano",
+        "calories": "ciclano@teste.com",
+        "fat": "00/00/0000",
+        "carbs": "99/99/9999",
+        "protein": "01",
+        "status": "INATIVO"
+    },
+    {
+        "id": 9,
+        "name": "Beltrano",
+        "calories": "beltrano@teste.com",
+        "fat": "00/00/0000",
+        "carbs": "99/99/9999",
+        "protein": "01",
+        "status": "ATIVO"
+    }
+]
